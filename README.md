@@ -1,4 +1,4 @@
-# IT-Project
+# UniRec
 
 ## Team 22
 
